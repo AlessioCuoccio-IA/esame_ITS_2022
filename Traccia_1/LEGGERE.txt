@@ -1,0 +1,5 @@
+Per questa traccia ho implementato due soluzioni:
+
+Nel package src c'è la prima versione con il Comparator nel main.
+
+All'interno package src c'è un altro package chiamato ordinamentoComparable che risolve l'esercizio con l'intefaccia Comparable.
